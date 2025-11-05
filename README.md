@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # ESP32 GPS Bike HUD
 
 GPS-Tacho mit **ESP32**, **PA1010D (MTK3333)** und **1.8" ST7735 TFT**.  
