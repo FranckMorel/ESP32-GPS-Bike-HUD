@@ -46,5 +46,7 @@ Speed kommt aus dem **Doppler** (nicht aus Positionsdelta). 10 Hz, 115200 Baud.
 **Fix vorhanden (F)**
 ![Fix](media/fix-ok.jpg)
 
-**Tacho Test1** – [Video ansehen](media/tacho-test1.mp4)  
-**Tacho Test2** – [Video ansehen](media/tacho-test2.mp4)
+**Tacho Test 1** – [Video ansehen (raw)](https://github.com/Fra***Morel/ESP32-GPS-Bike-HUD/raw/main/media/tacho-test1.mp4)
+
+**Tacho Test 2** – [Video ansehen (raw)](https://github.com/Fra***Morel/ESP32-GPS-Bike-HUD/raw/main/media/tacho-test2.mp4)
+
