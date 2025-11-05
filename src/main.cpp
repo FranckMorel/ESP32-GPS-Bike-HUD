@@ -9,7 +9,7 @@
 #define TFT_CS   5
 #define TFT_DC   17
 #define TFT_RST  19
-Adafruit_ST7735 tft(TFT_CS, TFT_DC, TFT_RST);   // SCL = GPIO18, SDA = GPIO23
+Adafruit_ST7735 tft(TFT_CS, TFT_DC, TFT_RST);   // SCK = GPIO18, MOSI = GPIO23
 
 // GPS per UART2
 HardwareSerial GPSSerial(2); 
@@ -20,7 +20,7 @@ uint32_t lastUI = 0, lastLog = 0, lastCoords = 0; // Zeitmarken für Rate Limits
 double   vEMA = 0.0;              // Exponential Moving Average der Geschwindigkeit
 const double ALPHA = 0.75;        // Filtergewicht
 bool     fixMsgShown = false;     // Merker
-bool     lastFix = true;         // letzter Fix-Zustand
+bool     lastFix = true;         // letzter Fixzustand
 int      lastSpeedInt = -999;     // zuletzt gezeigte km/h (Ganzzahl)
 double   lastLat = 1e9, lastLon = 1e9; // zuletzt gezeigte Koordinaten
 
