@@ -46,8 +46,5 @@ Speed kommt aus dem **Doppler** (nicht aus Positionsdelta). 10 Hz, 115200 Baud.
 **Fix vorhanden (F)**
 ![Fix](media/fix-ok.jpg)
 
-**Tacho Test1**
-![Tacho-test](media/tacho-test1.mp4)
-
-**Tacho Test2**
-![Tacho-test](media/tacho-test2.mp4)
+**Tacho Test1** – [Video ansehen](media/tacho-test1.mp4)  
+**Tacho Test2** – [Video ansehen](media/tacho-test2.mp4)
