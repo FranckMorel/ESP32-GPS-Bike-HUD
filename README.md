@@ -4,9 +4,9 @@ GPS-Tacho mit **ESP32**, **PA1010D (MTK3333)** und **1.8" ST7735 TFT**.
 Speed kommt aus dem **Doppler** (nicht aus Positionsdelta). 10 Hz, 115200 Baud.
 
 ## Features
-- Echtzeit-Speed @ **10 Hz**
+- Echtzeitgeschwindigkeitsanzeige, **10 Hz**
 - **UART2 115200** (RX=21, TX=16)
-- Flackerfreie Ganzzahl-Anzeige (km/h) via EMA-Filter
+- EMA-Filter
 - Fix-Status (F/X) + Lat/Lon
 
 ## Hardware / Pins
@@ -36,4 +36,5 @@ Speed kommt aus dem **Doppler** (nicht aus Positionsdelta). 10 Hz, 115200 Baud.
 - Antennenstatus: `PGCMD,33,1`
 
 ## Bilder
+
 
