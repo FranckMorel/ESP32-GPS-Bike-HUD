@@ -80,3 +80,17 @@ Speed kommt direkt aus dem **Doppler** (nicht Positions-Delta). 10 Hz, 115200 Ba
 ## Bilder
 
 >>>>>>> aa3a98c (chore: local changes (README/LICENSE/.gitignore))
+**Aufbau (Top)**
+![Aufbau](media/Top Ansicht.jpeg)
+
+**Warte auf GPS Fix**
+![Warte auf Fix](Fix wait.jpeg)
+
+**Fix vorhanden (F)**
+![Fix](media/Fix OK.jpeg)
+
+**Test Tachoanzeige**
+![Tachotest1](media/Test Tachoanzeige 1.mp4)
+
+**Test Tachoanzeige**
+![Tachotest2](media/Test Tachoanzeige 2.mp4)
